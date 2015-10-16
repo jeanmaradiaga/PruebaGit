@@ -8,4 +8,31 @@
 
 El primer sync hay que hacerlo? 
 
-No veo el boton del sync
+El boton de Sync en el Git sale debajo del pULL Request en la esquina derecha.
+
+
+Voy a aprovechar y tomar apuntes de Stannis, los invito a agregar apuntes:
+
+
+Contabilidad: Contabilidad es una técnica o rama de la Contaduría que se encarga de cuantificar, 
+medir y analizar las operaciones, la realidad económica y financiera de las organizaciones o 
+empresas, con el fin de facilitar la dirección y el control.
+
+Conceptos de una Cuenta Contable.
+
+
+Activos:
+
+
+Pasivos:
+
+
+Capital:
+
+
+Ingresos:
+
+
+Egresos:
+
+
