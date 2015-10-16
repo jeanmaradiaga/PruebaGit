@@ -9,9 +9,24 @@
 
 Preguntas del Quiz:
 
-1. Enterprise Resource Planning.
-2. Client Relationship Management.
-3. Supply Chain Management.
+
+1. Enterprise Resource Planning:
+ 
+	- Administra Recursos, es modular
+	- Administra procesos de negocios
+	- Multicompañia, multi motor de base de datos
+	- Personalizable
+
+   Ejemplos: SAP (Abap), Softland, JD Edwards.
+
+
+2. Client Relationship Management: 
+
+	- Modulos (Ventas, Servicios, Marketing...)
+
+
+
+3. Supply Chain Management:
 
 
 P.D: Stannis Baratheron Primero de su Nombre, Principe de RocaUML, Rey de los Documentos, los Primeros
