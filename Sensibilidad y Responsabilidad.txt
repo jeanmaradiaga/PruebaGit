@@ -21,19 +21,35 @@ empresas, con el fin de facilitar la dirección y el control.
 Conceptos de una Cuenta Contable.
 
 
-Activos:
 
 
-Pasivos:
+Activos: Son todos los bienes y necesidades que posee una empresa o persona. Por lo tanto, siempre comenzarán con un débito o cargo y sus saldos deben ser deudores.
+
+Caja (Dinero). Es el dinero en efectivo, propiedad de la empresa, el cual está representado por monedas y billetes de banco, así como cheques, 
+pagares (buches) de tarjetas de crédito, giros postales, bancarios y telegráficos recibidos de otras entidades; esta cuenta aumenta cuando 
+la empresa recibe dinero en efectivo, disminuye cuando paga con dinero en efectivo; es cuenta del activo porque representa el dinero en efectivo 
+propiedad de la entidad.
 
 
-Capital:
+Caja Chica: por medio de caja chica se realizan los gastos menores que no ameritan la elaboración de un cheque,la cantidad del fondo fijo, 
+y el monto máximo de pago por caja chica dependen de la naturaleza del negocio, de su volumen de operaciones y de la frecuencia con que 
+se use caja chica; el dinero de caja chica puede ser guardado en un pequeña caja fuerte; se entiende por fondo fijo de caja chica la cantidad 
+con la cual se crea esta cuenta y la cantidad a la cual debemos llevar después de reembolso.
 
 
-Ingresos:
+
+Pasivos: Son todas las deudas y obligaciones que posee una empresa o persona. Por lo tanto, siempre comenzarán por un crédito o abono, y sus saldos deben ser acreedores.
 
 
-Egresos:
+Capital: Es la diferencia entre pasivo y activo, si se tiene más activo que pasivo habrás obtenido ganancia, si es al revés habrás tenido pérdida. 
 
 
-No veo el boton :( 
+Ingresos: Es todo el valor que ingresa a la empresa, por ejemplo si vende un par de apps el ingreso es el dinero que se pagaron por ellos. 
+Si se compro una licencia el ingreso es el software en sí que ingresa a incrementar el inventario. 
+
+
+Egresos. También llamados Gastos, constituyen la expresión monetaria de los valores causados, pagados o consumidos como resultado de erogaciones 
+aplicadas en funcionamiento, administración, operación y financiación
+
+
+
