@@ -1,6 +1,9 @@
-﻿Hola, esta prueba es para aprender Git porque Stannis y Ella no enseñaron nada.
+﻿Instrucciones:
 
-FUCK THIS SHIT!! ZMDJKSNDJKWNKJENFKJWEFW
+1. Sync?
+2. Abrir documento.
+3. Escribir algo.
+4. Commit.
+5. Sync.
 
-Wendy, por favor no use lenguaje soez en este ejercicio Gitsiano. 
-Esperemos a Randall antes de ver eso de conflicts
+El primer sync hay que hacerlo? 
