@@ -7,3 +7,5 @@
 5. Sync.
 
 El primer sync hay que hacerlo? 
+
+No veo el boton del sync
