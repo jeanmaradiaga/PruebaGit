@@ -6,9 +6,17 @@
 4. Commit.
 5. Sync.
 
-El primer sync hay que hacerlo? 
 
-El boton de Sync en el Git sale debajo del pULL Request en la esquina derecha.
+Preguntas del Quiz:
+
+1. Enterprise Resource Planning.
+2. Client Relationship Management.
+3. Supply Chain Management.
+
+
+P.D: Stannis Baratheron Primero de su Nombre, Principe de RocaUML, Rey de los Documentos, los Primeros
+Diagramas y Protector de Cenfo.
+
 
 
 Voy a aprovechar y tomar apuntes de Stannis, los invito a agregar apuntes:
