@@ -18,9 +18,8 @@ Contabilidad: Contabilidad es una técnica o rama de la Contaduría que se encar
 medir y analizar las operaciones, la realidad económica y financiera de las organizaciones o 
 empresas, con el fin de facilitar la dirección y el control.
 
+
 Conceptos de una Cuenta Contable.
-
-
 
 
 Activos: Son todos los bienes y necesidades que posee una empresa o persona. Por lo tanto, siempre comenzarán con un débito o cargo y sus saldos deben ser deudores.
@@ -51,5 +50,29 @@ Si se compro una licencia el ingreso es el software en sí que ingresa a increme
 Egresos. También llamados Gastos, constituyen la expresión monetaria de los valores causados, pagados o consumidos como resultado de erogaciones 
 aplicadas en funcionamiento, administración, operación y financiación
 
-Ya es que no sabia q estabamos usando la herramienta. :)
 
+Arbol de Cuentas Contable
+
+
+- Cuentas Activos
+
+	- Activo Fijo
+
+		- Vehiculos
+		- Edificios
+
+	- Activo Circulante
+		
+		- Inventario
+		- Caja
+
+
+- Cuentas Pasivo
+
+	- Pasivo Circulante
+
+
+	- Pasivo L.P
+
+		- Prestamo BN
+		
