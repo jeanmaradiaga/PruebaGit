@@ -1,3 +1,6 @@
-Hola, esta prueba es para aprender Git porque Stannis y Ella no enseñaron nada.
+﻿Hola, esta prueba es para aprender Git porque Stannis y Ella no enseñaron nada.
 
 FUCK THIS SHIT!! ZMDJKSNDJKWNKJENFKJWEFW
+
+Wendy, por favor no use lenguaje soez en este ejercicio Gitsiano. 
+Esperemos a Randall antes de ver eso de conflicts
