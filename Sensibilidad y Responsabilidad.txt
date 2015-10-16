@@ -1,6 +1,6 @@
 ﻿Instrucciones:
 
-1. Sync?
+1. Sync para conseguir la ultima version.
 2. Abrir documento.
 3. Escribir algo.
 4. Commit.
