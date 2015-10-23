@@ -1,4 +1,10 @@
-﻿Instrucciones:
+﻿
+MALE - PHT9P-KXR4Y-BB6BY-VFMPD-THT4T
+
+FEMALE - VFH6P-9FJKK-KKP9G-H4DRH-WTCFM
+
+
+Instrucciones:
 
 1. Sync para conseguir la ultima version.
 2. Abrir documento.
@@ -98,4 +104,24 @@ Arbol de Cuentas Contable
 	- Pasivo L.P
 
 		- Prestamo BN
+
+
+Transacciones:
+
+Son un conjunto de intrucciones (tipo SQL) que se efectuan sobre la base de datos como una unica unidad de trabajo. Si una transacción tiene éxito, 
+todas las modificaciones de los datos realizadas durante la transacción se confirman y se convierten en una parte permanente de la base de datos. 
+Si una transacción encuentra errores y debe cancelarse o revertirse, se borran todas las modificaciones de los datos.
+
+
+Recordar ACID....
+
+- Atomicidad   (A.tomicity)
+ 
+- Consistencia (C.onsistency)
+
+- Aislamiento  (I.solation)
+
+- Permanencia  (D.urability)
+
+
 		
