@@ -1,7 +1,6 @@
 ﻿
-MALE - PHT9P-KXR4Y-BB6BY-VFMPD-THT4T
 
-FEMALE - VFH6P-9FJKK-KKP9G-H4DRH-WTCFM
+1309998371
 
 
 Instrucciones:
@@ -125,3 +124,12 @@ Recordar ACID....
 
 
 		
+Patron Multicompañia: Patron que permite a la base de datos ser adaptada para poderse usar por diversas compañias, mantiene todos los registros en la misma tabla.
+
+Modelado de Procesos de Negocio (Buisness Process Modeling): es la actividad de representar los procesos de una empresa, de manera que el actual proceso pueda ser 
+analizado o mejorado. BPM se realiza típicamente por analistas de negocios, que proporcionan conocimientos en la disciplina de modelado; por expertos en la materia, 
+que se han especializado está modelando el conocimiento de los procesos; o más comúnmente por un equipo formado por ambos.
+
+1. Dueño/Responsable  Define los procesos
+2. B.P.A              Mapea los Procesos
+3. Desarrollador      Automatiza los procesos.
