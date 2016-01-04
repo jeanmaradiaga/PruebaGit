@@ -10,6 +10,7 @@ Instrucciones:
 3. Escribir algo.
 4. Commit.
 5. Sync.
+6
 
 
 Preguntas del Quiz:
